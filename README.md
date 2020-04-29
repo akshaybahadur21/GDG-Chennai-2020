@@ -4,7 +4,7 @@
  
 My session at Google Developers Group in Chennai for humans 
  
-## [Slides]()
+## [Slides](https://docs.google.com/presentation/d/1GNcUTqQkUVxD4CQ4xBO4HrFMesfeP-PWDwKeTwqaZhE/edit?usp=sharing)
 
 ## [Meetup Link](https://www.meetup.com/GDGChennai/events/270313893/)
 ## [Webinar URL](https://bit.ly/gdgchennaitf)
